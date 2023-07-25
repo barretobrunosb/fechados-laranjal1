@@ -1,7 +1,7 @@
-"Name","Unmodelled (BC/AD)",,,"Modelled (BC/AD)",,,"Indices
-Amodel 84.2,,,,,,,,,
-Aoverall 84.1",,,,,,,,,,
-,"from","to","%","from","to","%","Acomb","A","L","P","C",
+"Name","Unmodelled (BC/AD)",,,"Modelled (BC/AD)",,,"Indices,,,,
+Amodel 84.2,,,,,,,,,,,
+Aoverall 84.1",,,,,,,,,,,
+ ,"from","to","%","from","to","%","Acomb","A","L","P","C",
 "Boundary Laranjal do Jari 1 End",,,,"1343","1640","95.449974",,,,,99.7,
 "Span Koriabo Phase Span",,,,"188","519","95.449974",,,,,99.9,
 "R_Date EST471","1329","1452","95.44997400000001","1325","1446","95.449973",,91,,96.4,99.9,
