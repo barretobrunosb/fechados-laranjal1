@@ -1,5 +1,7 @@
 # Fechados del sítio Laranjal do Jari 1 (Material Suplementario)
 
+[![DOI](https://zenodo.org/badge/591287895.svg)](https://zenodo.org/badge/latestdoi/591287895)
+
 Este repositorio fue producido como material suplementario del artículo **Casas, cerámicas y espacialidad: La introducción del estilo Koriabo en el sur de Amapá y los cambios en el bajo Amazonas en la transición del año 1000 d.C.**, presentado por Bruno Barreto a la revista *Latin American Antiquity*.
 
 El contiene la tabela de todos los fechados para obtenidos para el sítio Laranjal do Jari 1 (16 fechas) y los códigos Oxcal de la calibración/modelo bayseano.
