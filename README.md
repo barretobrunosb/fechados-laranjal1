@@ -26,6 +26,7 @@ Este repositírio contiene
 | 457        | Madera carbonizada  | Beta-398066         | 620 +/- 30 aP  | -25.5 o/oo (C13)     | 610 +/- 30 aP  | 1301 – 1370 dC (68.7%) | Koriabo          |
 | 386        | Madera carbonizada  | Beta-409485         | 670 +/- 30 aP  | -29.4 o/oo (C13)     | 600 +/- 30 aP  | 1303 – 1368 dC (64.7%) | Koriabo          |
 | 471        | Semilla carbonizada | Beta-409497         | 560 +/- 30 aP  | -26.8 o/oo (C13)     | 530 +/- 30 aP  | 1395 – 1448 dC (91.1%) | Koriabo          |
+|------------|---------------------|---------------------|----------------|----------------------|----------------|------------------------|------------------|
 |*Recalibrados con curva mista (50% IntCal20 y 50% ShCal20) en Oxcal Online v4.4.                                                                             |
 |**Fechas no consideradas en el modelo de ocupación del asentamiento                                                                                          |
 |***Fechas no corregidas por fraccionamento isotópico                                                                                                         |
