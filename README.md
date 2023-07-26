@@ -1,12 +1,20 @@
-# FECHADOS DEL SÍTIO LARANJAL DO JARI 1 (MATERIAL SUPLEMENTARIO)
+# Fechados del sítio Laranjal do Jari 1 (Material Suplementario)
 
-Este repositírio contiene 
+Este repositorio fue producido como material suplementario del artículo **Casas, cerámicas y espacialidad: La introducción del estilo Koriabo en el sur de Amapá y los cambios en el bajo Amazonas en la transición del año 1000 d.C.**, presentado por Bruno Barreto a la revista *Latin American Antiquity*.
+
+El contiene la tabela de todos los fechados para obtenidos para el sítio Laranjal do Jari 1 (16 fechas), los códigos Oxcal  modelo bayseano 
+
+**Resumén:** En los últimos años, el estilo cerámico Koriabo se ha convertido en un tema importante de discusión en la arqueología del bajo Amazonas. Su relevancia radica en su amplia distribución territorial en áreas históricamente habitadas por pueblos de habla Caribe, así como en la coherencia de su estilo visual. Aunque anteriormente se limitaba al escudo de las Guayanas, se ha identificado en contextos tardíos en el bajo río Xingú, el estuario del Amazonas y las Antillas Menores. La mayoría de las fechas de radiocarbono apuntan a un período posterior al año 1000 d.C., lo que sugiere una rápida expansión hacia el bajo Amazonas, respaldada por las similitudes en morfología y elementos decorativos. Este trabajo se centra en la variabilidad de la cerámica Koriabo encontrada en el sitio de Laranjal do Jari 1, ubicado en el área del bajo río Jari. La presencia de dos conjuntos cerámicos diferentes en este asentamiento refleja procesos más amplios de cambio que ocurren en la región. Mediante la integración de datos de casas, cerámica y contextos de deposición, el estudio ofrece un análisis del estilo Koriabo, examinando fenómenos históricos como migración, interacción y transformaciones culturales.
+
+**Palabras Clave:** cerámica Koriabo, unidades domésticas, bajo Amazonas, lenguas Caribe.
+
+**Abstract:** In recent years, the Koriabo ceramic style has become a prominent subject of study in the archaeology of the lower Amazon region. Its significance lies in its wide territorial distribution across areas historically inhabited by Carib-speaking peoples, as well as the consistency in its visual style. While previously confined to the Guianas' shield, it has now been identified in late age contexts of the lower Xingu River, the Amazon estuary, and the Lesser Antilles. Most of the radiocarbon dates point to a period after AD 1000, suggesting a rapid expansion towards the lower Amazon, supported by the similarities in morphology and decorative elements. This paper focuses on the variability of Koriabo ceramics found at the Laranjal do Jari 1 site, situated in the lower Jari River area. The presence of two different ceramic assemblages in this settlement reflects broader processes of change occurring in the region. By integrating data from houses, pottery, and depositional contexts, the study offers a comprehensive analysis of the Koriabo style through the lens of historical processes such as migration, interaction, and cultural change.
+
+**Keywords:** Koriabo ceramics, houses, lower Amazon, Cariban languages.
 
 
-
-
-
-
+### Tabela de fechados radiocarbônicos para el sítio Laranjal do Jari 1
+---------------------------------------------------------------------------
 
 | Estructura | Material fechado    | Referencia          | Edad medida    | Corrección isotópica | Edad corregida | Edad calibrada (2σ)*   | Estilo cerámico  |
 |------------|---------------------|---------------------|----------------|----------------------|----------------|------------------------|------------------|
